@@ -16,14 +16,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 安装Element-Plus
 
 ```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+npm install element-plus@2.4.4 --save
 ```
